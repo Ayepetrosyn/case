@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(182, 206, 50);
+}
+
+
+.form{
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(17, 44, 68);
+}
+
+.form_title{
+    letter-spacing: 2px;
+}
+
+.form_input{
+    padding: 10px;
+    border: 10px rgb(0, 168, 168);
+    background-color: rgb(103, 117, 117);
+    color: rgb(255, 166, 0);
+}
+
+.form_but{
+    font-size: 20px;
+    color: rgb(255, 166, 0);
+    border: 10px rgb(0, 168, 168);
+    padding: 10px;
+    background-color: rgb(52, 110, 110);
+    border-radius: 5px;
+}
+.form_lable{
+    border: 0ch;
+}
+
+.form_input{
+    border: 11px rebeccapurple outset;
+    border-radius: 905px;
+}
+
+a{
+    text-decoration: none;
+}
